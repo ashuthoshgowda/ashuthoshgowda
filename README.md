@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Ashuthosh Gowda!
+## Hi there, i'm ashu!
 
 I'm a Growth Data Scientist, AI Engineer, and Founder focused on turning complex data into actionable insights and scalable products.  
 
